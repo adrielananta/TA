@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/adrielananta.github.io/TA/static/css/main.1106d2d8.css",
-    "main.js": "/adrielananta.github.io/TA/static/js/main.35b86156.js",
-    "static/js/787.d4a0a6a5.chunk.js": "/adrielananta.github.io/TA/static/js/787.d4a0a6a5.chunk.js",
-    "service-worker.js": "/adrielananta.github.io/TA/service-worker.js",
-    "index.html": "/adrielananta.github.io/TA/index.html",
-    "main.1106d2d8.css.map": "/adrielananta.github.io/TA/static/css/main.1106d2d8.css.map",
-    "main.35b86156.js.map": "/adrielananta.github.io/TA/static/js/main.35b86156.js.map",
-    "787.d4a0a6a5.chunk.js.map": "/adrielananta.github.io/TA/static/js/787.d4a0a6a5.chunk.js.map"
+    "main.css": "/TA/static/css/main.1106d2d8.css",
+    "main.js": "/TA/static/js/main.de99dd49.js",
+    "static/js/787.d4a0a6a5.chunk.js": "/TA/static/js/787.d4a0a6a5.chunk.js",
+    "service-worker.js": "/TA/service-worker.js",
+    "index.html": "/TA/index.html",
+    "main.1106d2d8.css.map": "/TA/static/css/main.1106d2d8.css.map",
+    "main.de99dd49.js.map": "/TA/static/js/main.de99dd49.js.map",
+    "787.d4a0a6a5.chunk.js.map": "/TA/static/js/787.d4a0a6a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1106d2d8.css",
-    "static/js/main.35b86156.js"
+    "static/js/main.de99dd49.js"
   ]
 }
