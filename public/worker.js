@@ -3,6 +3,8 @@ var urlsToCache = [
   '/TA/',
   '/TA/manifest.json',
   '/TA/static/js/bundle.js',
+  '/TA/static/js/main.de99dd49.js',
+  '/TA/static/css/main.1106d2d8.css',
   '/TA/index.html'
 ];
 
