@@ -1,9 +1,9 @@
 var CACHE_NAME = 'tldraw-p2p-pwa';
 var urlsToCache = [
-  '/',
-  '/manifest.json',
-  '/static/js/bundle.js',
-  '/index.html'
+  '/TA/',
+  '/TA/manifest.json',
+  '/TA/static/js/bundle.js',
+  '/TA/index.html'
 ];
 
 // Install a service worker
