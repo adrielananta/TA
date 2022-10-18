@@ -26,7 +26,16 @@
     "workbox-range-requests": "^6.4.2",
     "workbox-routing": "^6.4.2",
     "workbox-strategies": "^6.4.2",
-    "workbox-streams": "^6.4.2"
+    "workbox-streams": "^6.4.2",
+    "@tldraw/tldraw": "1.11.0",
+    "@y-presence/client": "1.1.7",
+    "mobx": "6.5.0",
+    "y-indexeddb": "9.0.7",
+    "y-webrtc": "10.2.3",
+    "yjs": "13.5.20"
+  },
+  "resolutions": {
+    "@tldraw/core": "1.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
