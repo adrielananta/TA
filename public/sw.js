@@ -8,7 +8,7 @@ var urlsToCache = [
   '/TA/maskable_icon_x192.png',
   '/TA/maskable_icon_x512.png',
   '/TA/manifest.json',
-  '/TA/static/js/main.92038fcb.js',
+  '/TA/static/js/main.292f5752.js',
   '/TA/static/css/main.1106d2d8.css',
   '/TA/index.html'
 ];
